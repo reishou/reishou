@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Reishou's GitHub stats](https://github-readme-stats.vercel.app/api?username=reishou)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **reishou/reishou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
