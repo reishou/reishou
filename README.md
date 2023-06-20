@@ -1,4 +1,4 @@
-[![Reishou's GitHub stats](https://github-readme-stats.vercel.app/api?username=reishou)](https://github.com/anuraghazra/github-readme-stats)
+[![Reishou's GitHub stats](https://github-readme-stats.vercel.app/api?username=reishou&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
